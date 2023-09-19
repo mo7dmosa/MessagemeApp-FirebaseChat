@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163988491223",
+    "project_id": "messegeme-f7b6d",
+    "storage_bucket": "messegeme-f7b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163988491223:android:187407bbeee57483b91992",
+        "android_client_info": {
+          "package_name": "com.minhograph.messegeme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163988491223-7u4gfso1g535t7rr6e8h8nklsaqrcs95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjf8g3LeBCeTe-xWaEUXN4iXzmYmj0JFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163988491223-7u4gfso1g535t7rr6e8h8nklsaqrcs95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
